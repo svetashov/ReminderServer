@@ -1,7 +1,7 @@
 package com.example.a2.controller;
 
-/**
- * Created by Артем 2 on 28.05.2017.
- */
+import org.springframework.stereotype.Controller;
+
+@Controller
 public class RemindController {
 }
